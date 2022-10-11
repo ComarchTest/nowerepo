@@ -1,0 +1,7 @@
+	public void logowanie () {
+		System.out.println ("Podaj nazwę nowego użytkownika");
+		System.out.println ("Podaj poprawne kolejne hasło");
+		System.out.println ("Kliknij przycisk zaloguj");
+
+}
+krorgokgpltlpthlplptehth
