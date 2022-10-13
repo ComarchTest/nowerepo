@@ -12,5 +12,3 @@
 		System.out.println ("Podaj poprawne kolejne hasło");
 		System.out.println ("Kliknij przycisk zaloguj");
 
-}
->>>>>>> klient101
