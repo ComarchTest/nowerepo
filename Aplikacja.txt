@@ -4,4 +4,13 @@
 		System.out.println ("Kliknij przycisk zaloguj");
 
 }
+<<<<<<< HEAD
 
+=======
+	public void logowanie google() {
+		System.out.println ("Podaj mail");
+		System.out.println ("Podaj poprawne kolejne hasło");
+		System.out.println ("Kliknij przycisk zaloguj");
+
+}
+>>>>>>> klient101
