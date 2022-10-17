@@ -2,4 +2,10 @@ Logowanie do aplikacji:
 - użytkownik to adres email  w poprawnym formacie
 - hasło musi spełniać normy bezpieczeństwa i wygasa cp 30 dni
 
-ddd
+Logowanie do aplikacji google:
+- użytkownik to adres email  w poprawnym formacie
+- hasło musi spełniać normy bezpieczeństwa i wygasa cp 30 dni
+
+Logowanie do aplikacji microsoft:
+- użytkownik to adres email  w poprawnym formacie
+- hasło musi spełniać normy bezpieczeństwa i wygasa cp 30 dni
